@@ -20,8 +20,8 @@ public class SplashScreenActivity extends AppCompatActivity {
                 .withBackgroundColor(Color.rgb(173, 20, 87))
                 //.withHeaderText("Welcome to Ranna Ghor")
                 //.withFooterText("Copyright 2018")
-                .withLogo(R.drawable.ic_restaurant)
-                .withAfterLogoText("Welcome to KitchenBD");
+                .withLogo(R.drawable.logo)
+                .withAfterLogoText("Welcome to bdrannaghar");
 
 //        config.getHeaderTextView().setTextColor(Color.rgb(171,218,252));
 //        config.getHeaderTextView().setTextSize(28);

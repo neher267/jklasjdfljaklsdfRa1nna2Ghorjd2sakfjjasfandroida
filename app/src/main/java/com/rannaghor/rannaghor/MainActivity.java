@@ -100,9 +100,8 @@ public class MainActivity extends AppCompatActivity
 
         //webView.loadUrl("http://192.168.0.196/practice/u1u42rannahorjdlfklasjdfjalks/public/index.php");
 
-        webView.loadUrl("https://bdrannaghar.com");
-
-
+        //webView.loadUrl("https://bdrannaghar.com");
+        webView.loadUrl("www.google.com");
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
